@@ -5,6 +5,10 @@
         {
             "name": "Markus Fasselt",
             "email": "markus.fasselt@gmail.com"
+        },
+        {
+            "name": "Frank Giesecke",
+            "email": "frank.giesecke@final-gene.de"
         }
     ],
     "bin": ["bin/snakedumper"],
